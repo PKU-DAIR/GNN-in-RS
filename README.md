@@ -1,5 +1,18 @@
 # GNN in RS
 
+## Cite
+
+Please cite our paper if you find it useful in your work:
+```
+@article{wu2020graph,
+  title={Graph neural networks in recommender systems: a survey},
+  author={Wu, Shiwen and Sun, Fei and Zhang, Wentao and Xie, Xu and Cui, Bin},
+  journal={ACM Computing Surveys (CSUR)},
+  year={2020},
+  publisher={ACM New York, NY}
+}
+```
+
 ## User-item CF
 
 * Graph convolutional matrix completion (KDD'18) [[doc](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf)]
@@ -146,15 +159,4 @@ Dimensional Integration (SIGIR'21) [[doc](https://dl.acm.org/doi/abs/10.1145/340
 * Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View (SIGIR'20) [[doc](https://dl.acm.org/doi/abs/10.1145/3397271.3401057)]
 * Basket Recommendation with Multi-Intent Translation Graph Neural Network (ICBD'20) [[doc](https://arxiv.org/abs/2010.11419)] [[code](https://github.com/JimLiu96/MITGNN)]
 
-## Cite
 
-Please cite our paper if you find it useful in your work:
-```
-@article{wu2020graph,
-  title={Graph neural networks in recommender systems: a survey},
-  author={Wu, Shiwen and Sun, Fei and Zhang, Wentao and Xie, Xu and Cui, Bin},
-  journal={ACM Computing Surveys (CSUR)},
-  year={2020},
-  publisher={ACM New York, NY}
-}
-```
